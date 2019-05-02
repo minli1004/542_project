@@ -49,4 +49,4 @@ testq4 <- read.csv ("LoanStats_2018Q4.csv")
 # write.table(mysubmission_2018Q3.txt, file=outname, row.names = FALSE, sep=",", col.names = TRUE)
 # write.table(mysubmission_2018Q4.txt, file=outname, row.names = FALSE, sep=",", col.names = TRUE)
 
-
+#wefrwe
